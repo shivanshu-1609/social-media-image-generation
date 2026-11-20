@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+diffusers==0.32.2
+transformers==4.46.3
+accelerate>=1.2,<2
+huggingface-hub>=0.26,<1
+safetensors>=0.4,<1
+peft==0.14.0
+streamlit>=1.40,<2
+Pillow>=10.2,<12
